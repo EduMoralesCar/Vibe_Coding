@@ -79,33 +79,106 @@ C --> S[🚀 Ship + mejorar]
 ---
 
 
-## Tabla comparativa (rápida)
+---
 
-| Herramienta | Mejor para | Output típico | Punto fuerte | Ideal si tú quieres… |
-|---|---|---|---|---|
-| **Cursor** | Construir y mantener el repo | Código + refactors + fixes | Contexto del proyecto (multi-archivo) | “Trabajar serio en el código del repo con IA” |
-| **Windsurf** | Flow + cambios grandes | Cambios multi-archivo | Agentes / navegación / autocomplete | “Iterar rápido en proyectos medianos-grandes” |
-| **bolt.new** | Prototipo en 1 click | App demo compartible | Cero setup + link listo | “Validar una idea hoy en minutos” |
-| **v0** | UI/Frontend desde prompt | Pantallas + componentes | Diseño veloz (UI) | “Sacar pantallas lindas rápido” |
+## ⚔️ Comparativa (pro)
+
+<table>
+  <tr>
+    <th align="left">Tool</th>
+    <th align="left">Best for</th>
+    <th align="left">Output</th>
+    <th align="left">Strength</th>
+    <th align="left">Choose it if…</th>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://www.google.com/s2/favicons?domain=cursor.com&sz=64" width="18" height="18" alt="Cursor" />
+      <b> Cursor</b>
+    </td>
+    <td>Repo real + dev diario</td>
+    <td>✍️ code • 🔧 refactor • 🧪 tests</td>
+    <td>Contexto del proyecto (multi-file)</td>
+    <td>Quieres <b>construir</b> y <b>mantener</b> el código en tu repo</td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://www.google.com/s2/favicons?domain=windsurf.ai&sz=64" width="18" height="18" alt="Windsurf" />
+      <b> Windsurf</b>
+    </td>
+    <td>Flow + cambios grandes</td>
+    <td>🤖 agent • 🧭 navegación • 🧩 consistencia</td>
+    <td>Agentes y edición a escala</td>
+    <td>Quieres iterar rápido con cambios multi-archivo</td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://www.google.com/s2/favicons?domain=bolt.new&sz=64" width="18" height="18" alt="bolt.new" />
+      <b> bolt.new</b>
+    </td>
+    <td>Prototipo instantáneo</td>
+    <td>⚡ MVP • 🌍 link demo</td>
+    <td>Cero setup (browser)</td>
+    <td>Quieres validar la idea <b>hoy</b> en minutos</td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="https://www.google.com/s2/favicons?domain=v0.dev&sz=64" width="18" height="18" alt="v0" />
+      <b> v0</b>
+    </td>
+    <td>UI desde prompt</td>
+    <td>🎨 screens • 🧱 components</td>
+    <td>Diseño rápido (frontend)</td>
+    <td>Quieres pantallas bonitas rápido y luego integrar</td>
+  </tr>
+</table>
 
 ---
 
-## Recursos / links (docs oficiales)
+## 🔗 Recursos oficiales (con iconos)
 
-- **Cursor**  
-  - Sitio: https://cursor.com  
-  - Docs: https://docs.cursor.com
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://www.google.com/s2/favicons?domain=cursor.com&sz=64" width="18" height="18" alt="Cursor" />
+      <b> Cursor</b><br/>
+      <sub>
+        • Site: https://cursor.com<br/>
+        • Docs: https://docs.cursor.com
+      </sub>
+    </td>
+    <td width="50%">
+      <img src="https://www.google.com/s2/favicons?domain=windsurf.ai&sz=64" width="18" height="18" alt="Windsurf" />
+      <b> Windsurf</b><br/>
+      <sub>
+        • Site: https://windsurf.ai<br/>
+        • Docs: https://codeium.com/windsurf
+      </sub>
+    </td>
+  </tr>
 
-- **Windsurf (Codeium)**  
-  - Sitio: https://windsurf.ai  
-  - Docs: https://codeium.com/windsurf
-
-- **bolt.new (StackBlitz)**  
-  - Sitio: https://bolt.new  
-  - StackBlitz: https://stackblitz.com
-
-- **v0 (Vercel)**  
-  - Sitio: https://v0.dev  
-  - Vercel: https://vercel.com
+  <tr>
+    <td width="50%">
+      <img src="https://www.google.com/s2/favicons?domain=bolt.new&sz=64" width="18" height="18" alt="bolt.new" />
+      <b> bolt.new</b><br/>
+      <sub>
+        • Site: https://bolt.new<br/>
+        • StackBlitz: https://stackblitz.com
+      </sub>
+    </td>
+    <td width="50%">
+      <img src="https://www.google.com/s2/favicons?domain=v0.dev&sz=64" width="18" height="18" alt="v0" />
+      <b> v0</b><br/>
+      <sub>
+        • Site: https://v0.dev<br/>
+        • Vercel: https://vercel.com
+      </sub>
+    </td>
+  </tr>
+</table>
 
 ---
