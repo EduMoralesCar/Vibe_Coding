@@ -69,27 +69,20 @@ C --> S[🚀 Ship + mejorar]
 
 ---
 
-## Prompt pack (rápido)
-
-- “Hazlo funcionar” ✅
-- “Ahora hazlo limpio” 🧼
-- “Agrega tests y docs” 🧪📚
-- “Optimiza sin cambiar comportamiento” ⚙️
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=26&pause=900&color=7C3AED&center=true&vCenter=true&width=780&lines=Vibe+Coding+Toolbox;Cursor+%7C+Windsurf+%7C+bolt.new+%7C+v0" alt="Typing SVG" />
+</p>
 
 ---
 
-
----
-
-## ⚔️ Comparativa (pro)
+## Comparativa
 
 <table>
   <tr>
     <th align="left">Tool</th>
-    <th align="left">Best for</th>
-    <th align="left">Output</th>
-    <th align="left">Strength</th>
-    <th align="left">Choose it if…</th>
+    <th align="left">Para qué</th>
+    <th align="left">Entrega</th>
+    <th align="left">Cuándo usar</th>
   </tr>
 
   <tr>
@@ -97,10 +90,9 @@ C --> S[🚀 Ship + mejorar]
       <img src="https://www.google.com/s2/favicons?domain=cursor.com&sz=64" width="18" height="18" alt="Cursor" />
       <b> Cursor</b>
     </td>
-    <td>Repo real + dev diario</td>
-    <td>✍️ code • 🔧 refactor • 🧪 tests</td>
-    <td>Contexto del proyecto (multi-file)</td>
-    <td>Quieres <b>construir</b> y <b>mantener</b> el código en tu repo</td>
+    <td>Editar tu repo con IA</td>
+    <td>✍️ código · 🔧 refactor · 🧪 tests</td>
+    <td>Cuando estás construyendo “en serio” dentro del proyecto</td>
   </tr>
 
   <tr>
@@ -108,10 +100,9 @@ C --> S[🚀 Ship + mejorar]
       <img src="https://www.google.com/s2/favicons?domain=windsurf.ai&sz=64" width="18" height="18" alt="Windsurf" />
       <b> Windsurf</b>
     </td>
-    <td>Flow + cambios grandes</td>
-    <td>🤖 agent • 🧭 navegación • 🧩 consistencia</td>
-    <td>Agentes y edición a escala</td>
-    <td>Quieres iterar rápido con cambios multi-archivo</td>
+    <td>Flow + cambios multi-archivo</td>
+    <td>🤖 agentes · 🧭 navegación · 🧩 consistencia</td>
+    <td>Cuando quieres iterar rápido en proyectos medianos/grandes</td>
   </tr>
 
   <tr>
@@ -119,10 +110,9 @@ C --> S[🚀 Ship + mejorar]
       <img src="https://www.google.com/s2/favicons?domain=bolt.new&sz=64" width="18" height="18" alt="bolt.new" />
       <b> bolt.new</b>
     </td>
-    <td>Prototipo instantáneo</td>
-    <td>⚡ MVP • 🌍 link demo</td>
-    <td>Cero setup (browser)</td>
-    <td>Quieres validar la idea <b>hoy</b> en minutos</td>
+    <td>Prototipos en el navegador</td>
+    <td>⚡ MVP · 🌍 demo por link</td>
+    <td>Cuando quieres validar una idea en minutos</td>
   </tr>
 
   <tr>
@@ -130,16 +120,20 @@ C --> S[🚀 Ship + mejorar]
       <img src="https://www.google.com/s2/favicons?domain=v0.dev&sz=64" width="18" height="18" alt="v0" />
       <b> v0</b>
     </td>
-    <td>UI desde prompt</td>
-    <td>🎨 screens • 🧱 components</td>
-    <td>Diseño rápido (frontend)</td>
-    <td>Quieres pantallas bonitas rápido y luego integrar</td>
+    <td>UI desde prompts</td>
+    <td>🎨 pantallas · 🧱 componentes</td>
+    <td>Cuando quieres diseño rápido y luego integras al repo</td>
   </tr>
 </table>
 
 ---
 
-## 🔗 Recursos oficiales (con iconos)
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=22&pause=800&color=22C55E&center=true&vCenter=true&width=780&lines=Recursos+oficiales" alt="Typing SVG" />
+</p>
+
+---
 
 <table>
   <tr>
@@ -147,16 +141,16 @@ C --> S[🚀 Ship + mejorar]
       <img src="https://www.google.com/s2/favicons?domain=cursor.com&sz=64" width="18" height="18" alt="Cursor" />
       <b> Cursor</b><br/>
       <sub>
-        • Site: https://cursor.com<br/>
-        • Docs: https://docs.cursor.com
+        Docs → https://docs.cursor.com<br/>
+        Site → https://cursor.com
       </sub>
     </td>
     <td width="50%">
       <img src="https://www.google.com/s2/favicons?domain=windsurf.ai&sz=64" width="18" height="18" alt="Windsurf" />
       <b> Windsurf</b><br/>
       <sub>
-        • Site: https://windsurf.ai<br/>
-        • Docs: https://codeium.com/windsurf
+        Docs → https://codeium.com/windsurf<br/>
+        Site → https://windsurf.ai
       </sub>
     </td>
   </tr>
@@ -166,19 +160,22 @@ C --> S[🚀 Ship + mejorar]
       <img src="https://www.google.com/s2/favicons?domain=bolt.new&sz=64" width="18" height="18" alt="bolt.new" />
       <b> bolt.new</b><br/>
       <sub>
-        • Site: https://bolt.new<br/>
-        • StackBlitz: https://stackblitz.com
+        Site → https://bolt.new<br/>
+        StackBlitz → https://stackblitz.com
       </sub>
     </td>
     <td width="50%">
       <img src="https://www.google.com/s2/favicons?domain=v0.dev&sz=64" width="18" height="18" alt="v0" />
       <b> v0</b><br/>
       <sub>
-        • Site: https://v0.dev<br/>
-        • Vercel: https://vercel.com
+        Site → https://v0.dev<br/>
+        Vercel → https://vercel.com
       </sub>
     </td>
   </tr>
 </table>
 
 ---
+
+
+
