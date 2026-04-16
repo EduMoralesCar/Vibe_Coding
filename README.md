@@ -1,4 +1,4 @@
-# Vibe_Coding — Vibe Coding (IA)
+# Vibe Coding (IA)
 
 <p align="center">
   <img src="https://img.shields.io/badge/vibe-coding-black" />
