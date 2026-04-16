@@ -1,113 +1,83 @@
-# Vibe_Coding
+# Vibe_Coding — Vibe Coding (IA)
 
-> **Vibe Coding** = programar en modo *flujo*: describes lo que quieres construir, iteras rápido y te apoyas en IA para escribir, refactorizar y depurar código.
+<p align="center">
+  <img src="https://img.shields.io/badge/vibe-coding-black" />
+  <img src="https://img.shields.io/badge/IA-assisted-7c3aed" />
+  <img src="https://img.shields.io/badge/build-fast-22c55e" />
+</p>
 
----
-
-## 🌈 ¿Qué es *Vibe Coding*?
-
-El *vibe coding* es un estilo de desarrollo donde priorizas:
-
-- **Rapidez**: prototipar en minutos.
-- **Iteración**: pedir cambios pequeños y constantes.
-- **Contexto**: mantener el objetivo claro (qué problema resuelves).
-- **Asistencia IA**: usar copilotos, editores y agentes para generar código, tests, documentación y fixes.
-
-### 🧠 En qué se enfoca
-
-- Convertir ideas en producto **sin fricción**.
-- Usar prompts claros: *"haz X", "ahora agrega Y", "optimiza Z"*.
-- Menos “pelear” con la herramienta y más **guiar** el resultado.
+<p align="center">
+  <b>Idea → UI → Prototipo → Código → Ship</b>
+</p>
 
 ---
 
-## 🧰 Herramientas principales
+## ¿Qué es?
 
-### 1) Cursor
-
-**Cursor** es un editor tipo VS Code con IA integrada (chat + edición en contexto del repo).
-
-**Usos típicos:**
-
-- ✍️ Generar código a partir de una idea
-- 🔧 Refactorizar módulos enteros
-- 🧪 Crear tests
-- 🐛 Explicar y corregir bugs leyendo tu proyecto
-
-**Tip de vibe:**
-
-> Pide cambios por pasos: *"hazlo funcionar" → "hazlo limpio" → "hazlo rápido"*.
+```mermaid
+flowchart LR
+A[🎯 Idea] --> B[🧠 Prompt]
+B --> C[⚡ IA genera]
+C --> D[🔁 Iteras]
+D --> E[🚀 Ship]
+```
 
 ---
 
-### 2) Bolt.new
+## Toolbox (modo presentación)
 
-**bolt.new** (StackBlitz) permite crear apps full-stack en el navegador, rápido y sin setup local.
-
-**Ideal para:**
-
-- ⚡ Prototipos rápidos
-- 🌍 Compartir demos por link
-- 🧱 Arrancar proyectos con templates
-
-**Tip de vibe:**
-
-> Úsalo para validar la idea primero, luego migras a repo.
-
----
-
-### 3) Windsurf
-
-**Windsurf** (Codeium) es un editor/IDE con enfoque en “flow”, con agentes y autocompletado potente.
-
-**Ideal para:**
-
-- 🧭 Navegar proyectos grandes
-- 🤖 Pedir cambios multi-archivo
-- 🧩 Mantener consistencia de estilo
-
-**Tip de vibe:**
-
-> Dale contexto: pega requirements, estructura de carpetas y ejemplos.
-
----
-
-### 4) v0 ("vo")
-
-**v0** (Vercel) genera interfaces (UI) a partir de prompts, comúnmente con **React + Tailwind**.
-
-**Ideal para:**
-
-- 🎨 Diseñar pantallas rápido
-- 🧱 Componentes reutilizables
-- 🖥️ Layouts completos para apps
-
-**Tip de vibe:**
-
-> Pide la UI con estados: *loading*, *empty*, *error* y *success*.
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://www.google.com/s2/favicons?domain=cursor.com&sz=128" width="48" height="48" alt="Cursor" />
+      <br/><b>Cursor</b>
+      <br/><sub>Editor + IA en el repo</sub>
+      <br/>✍️ Code • 🔧 Refactor
+    </td>
+    <td align="center" width="25%">
+      <img src="https://www.google.com/s2/favicons?domain=bolt.new&sz=128" width="48" height="48" alt="bolt.new" />
+      <br/><b>bolt.new</b>
+      <br/><sub>Prototipos en navegador</sub>
+      <br/>⚡ MVP • 🌍 Share link
+    </td>
+    <td align="center" width="25%">
+      <img src="https://www.google.com/s2/favicons?domain=windsurf.ai&sz=128" width="48" height="48" alt="Windsurf" />
+      <br/><b>Windsurf</b>
+      <br/><sub>Flow + agentes</sub>
+      <br/>🤖 Multi-file • 🧭 Navega
+    </td>
+    <td align="center" width="25%">
+      <img src="https://www.google.com/s2/favicons?domain=v0.dev&sz=128" width="48" height="48" alt="v0" />
+      <br/><b>v0</b>
+      <br/><sub>UI desde prompt</sub>
+      <br/>🎨 Screens • 🧱 Components
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🎯 Flujo recomendado (vibe workflow)
+## Workflow express (30s)
 
-1. **Idea** → define el objetivo en 1 frase.
-2. **UI rápida** → v0 para pantallas.
-3. **Prototipo** → bolt.new para validar.
-4. **Construcción real** → Cursor / Windsurf para iterar en el repo.
-5. **Pulido** → tests, docs, refactor, performance.
-
----
-
-## ✅ Checklist de prompts útiles
-
-- "Crea la estructura del proyecto con X"
-- "Implementa el feature Y y agrega tests"
-- "Refactoriza este archivo para que sea más legible"
-- "Encuentra el bug y explica por qué ocurre"
-- "Optimiza esto sin cambiar el comportamiento"
+```mermaid
+flowchart TD
+I[🎯 1 frase: qué construyes] --> U[🎨 v0: pantallas]
+U --> P[⚡ bolt.new: demo]
+P --> C[🧠 Cursor/Windsurf: repo real]
+C --> S[🚀 Ship + mejorar]
+```
 
 ---
 
-## 📌 Notas
+## Prompt pack (rápido)
 
-Este repo contiene apuntes y recursos sobre **Vibe Coding** y herramientas para construir más rápido con IA.
+- “Hazlo funcionar” ✅
+- “Ahora hazlo limpio” 🧼
+- “Agrega tests y docs” 🧪📚
+- “Optimiza sin cambiar comportamiento” ⚙️
+
+---
+
+### Nota
+
+Este repo es una mini-guía visual de **Vibe Coding** + herramientas.
