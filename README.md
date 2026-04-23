@@ -1,4 +1,8 @@
-# Vibe Coding (IA)
+<div align="center">
+  <h1>
+     Vibe Coding (IA)
+  </h1>
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/vibe-coding-black" />
