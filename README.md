@@ -10,7 +10,7 @@
   <b>Idea → UI → Prototipo → Código → Ship</b>
 </p>
 
----
+#
 
 ## ¿Qué es?
 
@@ -22,7 +22,7 @@ C --> D[🔁 Iteras]
 D --> E[🚀 Ship]
 ```
 
----
+#
 
 ## Toolbox (modo presentación)
 
@@ -56,13 +56,13 @@ D --> E[🚀 Ship]
 </table>
 
 
----
+#
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=26&pause=900&color=7C3AED&center=true&vCenter=true&width=780&lines=Recursos+oficiales+%7C+Windsurf+%7C+bolt.new+%7C+v0" alt="Typing SVG" />
 </p>
 
----
+#
 
 
 <table>
@@ -113,4 +113,4 @@ D --> E[🚀 Ship]
 
 </div>
 
----
+#
