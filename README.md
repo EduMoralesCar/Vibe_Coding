@@ -59,16 +59,8 @@ D --> E[🚀 Ship]
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=26&pause=900&color=7C3AED&center=true&vCenter=true&width=780&lines=Vibe+Coding+Toolbox;Cursor+%7C+Windsurf+%7C+bolt.new+%7C+v0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=26&pause=900&color=7C3AED&center=true&vCenter=true&width=780&lines=Recursos+oficiales+%7C+Windsurf+%7C+bolt.new+%7C+v0" alt="Typing SVG" />
 </p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=22&pause=800&color=22C55E&center=true&vCenter=true&width=780&lines=Recursos+oficiales" alt="Recursos oficiales" />
-</p>
-
-<div align="center">
 
 ---
 
